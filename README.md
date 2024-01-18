@@ -1,4 +1,5 @@
-# Hi, I'm Kailey 👋
+# 👋 Hi, I'm Kailey 
+<!--👋-->
 
 <!--
 **KaileyHart/KaileyHart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
